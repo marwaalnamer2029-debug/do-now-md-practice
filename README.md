@@ -1,2 +1,4 @@
 # do-now-md-practice
-My favorite memory at **mesa** was **vista** *week* when we played the *games* and we were playing the cup game.
+# Favorite memory
+my favorite memory at mesa was during **vista** *week* when we played the **cup** *game*
+
